@@ -24,6 +24,7 @@ Every tool listed below is a concrete instance of that governance architecture: 
   - [PCB & Electronics Design](#pcb--electronics-design)
 - [CAM — Computer-Aided Manufacturing](#cam--computer-aided-manufacturing)
   - [Slicer Software (Additive Manufacturing)](#slicer-software-additive-manufacturing)
+  - [Nesting / Sheet Layout](#nesting)
   - [CNC Toolpath Generation (Subtractive)](#cnc-toolpath-generation-subtractive)
   - [Laser / Plasma Toolpath](#laser--plasma-toolpath)
 - [Machine Control Firmware](#machine-control-firmware)
@@ -118,6 +119,11 @@ Every tool listed below is a concrete instance of that governance architecture: 
 | [CuraEngine](https://github.com/Ultimaker/CuraEngine) | The slicing engine behind Cura. Can be used standalone or embedded in other applications. | AGPL-3.0 |
 | [Chitubox Basic](https://www.chitubox.com/) | Resin (SLA/DLP/MSLA) slicer (free but not open source — included for ecosystem completeness). | Proprietary (free) |
 | [UVtools](https://github.com/sn4k3/UVtools) | MSLA/DLP file editor and analyser. Supports many resin printer file formats. | AGPL-3.0 |
+
+### Nesting
+| Project | Description | License |
+|---------|-------------|---------|
+| [Kenzap Nesting](https://github.com/kenzap/nesting-app) | Desktop 2D nesting tool that arranges DXF parts on sheets and exports the layouts as DXF. Runs on macOS, Windows, and Linux. | Apache-2.0 |
 
 ### CNC Toolpath Generation (Subtractive)
 
