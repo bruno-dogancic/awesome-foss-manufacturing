@@ -403,6 +403,7 @@ Open, standardised file formats are the **interface boundaries** that enable int
 | [Klipper Documentation](https://www.klipper3d.org/) | Configuration references, tuning guides, and kinematic explanations for Klipper firmware. |
 | [LinuxCNC Documentation](http://linuxcnc.org/docs/) | Comprehensive guides for CNC machine configuration and G-code programming. |
 | [FreeCAD Wiki](https://wiki.freecad.org/) | Tutorials, workbench documentation, and macro libraries for FreeCAD. |
+| [SolidCraft CAD](https://solidcraftcad.com/) | Tutorials and guides for SolidCraft, the open-source parametric 3D CAD app written in Rust. |
 | [OpenFOAM Wiki](https://openfoamwiki.net/) | Community documentation and tutorials for OpenFOAM CFD. |
 | [Voron Documentation](https://docs.vorondesign.com/) | Build guides, sourcing guides, and tuning documentation for Voron printers. |
 | [Teaching Tech Calibration](https://teachingtechyt.github.io/calibration.html) | Web-based calibration toolkit for FDM 3D printers. Open source. |
